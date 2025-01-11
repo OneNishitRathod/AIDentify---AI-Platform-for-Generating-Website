@@ -15,7 +15,7 @@ AI-Dentify empowers anyone to build a website without needing to code. It levera
 
 ## Running Application
 
-1. Access the application in your web browser at `https://aidentify.site/`.
+1. Access the application in your web browser at `[AI-Dentify](https://aidentify.site/)`.
 
 ## Team
 
